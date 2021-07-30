@@ -1,2 +1,2 @@
 # hello-world
-Eu só tô seguindo a poha do tutorial. Não quero julgamentos. Tem Nescau na geladeira.
+Eu só tô seguindo a poha do tutorial. Não quero julgamentos. Não tem mais Nescau na geladeira.
